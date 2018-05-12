@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/201
     wikipedia: http://en.wikipedia.org/wiki/Mary_Hunter_Austin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27792#The-Arrow-Maker--A-Drama-in-Three-Acts
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2009-01-13'
 gutenberg_type: Text
